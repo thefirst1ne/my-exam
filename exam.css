@@ -104,3 +104,8 @@ p{
     justify-content: center;
     align-items: center;
   }
+  .sir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
